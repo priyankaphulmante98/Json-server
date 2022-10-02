@@ -1,0 +1,289 @@
+{
+  "Makeup": [
+    {
+      "id": "1",
+      "name": " SEPHORA COLLECTION",
+      "name2": "Cream Lip Stain Liquid Lipstick",
+      "colours": "79 Colours",
+      "price": "14.00",
+      "rating": "10.9K",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s1296060-main-zoom.jpg?pb=2020-03-sephora-value-2020&imwidth=230",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s1296060-main-zoom.jpg?pb=2020-03-sephora-value-2020&imwidth=230",
+        "https://www.sephora.com/productimages/sku/s1296060-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/contentimages/VideoImagesNEW/050421/Cream%20Lip%20Stain.png"
+      ]
+    },
+    {
+      "id": "2",
+      "name": " SEPHORA COLLECTION",
+      "name2": "Colorful Lip Gloss Balm",
+      "colours": "26 Colours",
+      "price": "9.00",
+      "rating": "1.1K",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s2540961-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2540961-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p403322-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2540961-av-5-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Fenty Beauty by Rihanna",
+      "name2": "Gloss Bomb Universal Lip Luminizer",
+      "colours": "6 Colours",
+      "price": "20.00",
+      "rating": "11.9K",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s1925965-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s1925965-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/contentimages/VideoImagesNEW/050421/Cream%20Lip%20Stain.png",
+        "https://www.sephora.com/productimages/sku/s1925965-av-15-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "DIOR",
+      "name2": "Lip Glow Oil",
+      "colours": "8 Colours",
+      "price": "38.00",
+      "rating": "728",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s2449130-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2449130-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2449130-av-04-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2449130-av-02-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "SEPHORA COLLECTION",
+      "name2": "Matte Perfection Lightweight Tinted Moisturizer ",
+      "colours": "16 Colours",
+      "price": "9.00",
+      "rating": "36.9K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s2149482-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2149482-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p448496-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p448496-av-06-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Summer Fridays",
+      "name2": "Sheer Skin Tint with Hyaluronic Acid + Squalane",
+      "colours": "10 Colours",
+      "price": "42.00",
+      "rating": "8.6K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s2536183-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2536183-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2536183-av-7-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2536183-av-8-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Charlotte Tilbury",
+      "name2": "Airbrush Flawless Finish Setting Powder",
+      "colours": "4 Colours",
+      "price": "45.00",
+      "rating": "1.8K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s2606085-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2606085-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2606085-av-11-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2606085-av-9-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Laura Mercier",
+      "name2": "Translucent Loose Setting Powder",
+      "colours": "6 Colours",
+      "price": "40.00",
+      "rating": "9.2K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s870618-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s870618-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p109908-av-02-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s870618-av-01-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "SEPHORA COLLECTION",
+      "name2": "Retractable Waterproof Eyeliner",
+      "colours": "19 Colours",
+      "price": "13.00",
+      "rating": "266.9K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s1118033-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s1118033-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p230234-av-02-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s1118033-av-01-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "ILIA",
+      "name2": "Limitless Lash Lengthening Mascara",
+      "colours": "2 Colours",
+      "price": "28.00",
+      "rating": "178K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s2335198-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2335198-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2335198-av-07-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2335198-av-10-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Lancôme",
+      "name2": "Lash Idôle Lash-Lifting & Volumizing Mascara",
+      "colours": "1 Colours",
+      "price": "27.00",
+      "rating": "76.1K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s2417145-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2417145-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2417145-av-03-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2417145-av-05-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Kosas",
+      "name2": "Air Brow Tinted Clean Volumizing Eyebrow Gel",
+      "colours": "10 Colours",
+      "price": "24.00",
+      "rating": "82.8K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s2429629-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2429629-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2429629-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2429629-av-03-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Bobbi Brown",
+      "name2": "Long-Wear Cream Eyeshadow Stick",
+      "colours": "80 Colours",
+      "price": "32.00",
+      "rating": "10K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s2577252-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2577252-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2577252-av-3-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2577252-av-3-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "The Ordinary",
+      "name2": "Multi-Peptide Lash and Brow Serum",
+      "colours": "7 Colours",
+      "price": "14.50",
+      "rating": "110.9K",
+      "category": "Eye",
+      "images": "https://www.sephora.com/productimages/sku/s2532588-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2532588-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p500423-av-5-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p500423-av-8-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Fenty Beauty by Rihanna",
+      "name2": "Diamond Bomb All-Over Diamond Veil",
+      "colours": "10 Colours",
+      "price": "40.00",
+      "rating": "10K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s2385169-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2385169-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2385169-av-02-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2385169-av-03-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "SEPHORA COLLECTION",
+      "name2": "LIPSTORIES Lipstick",
+      "colours": "89 Colours",
+      "price": "9.00",
+      "rating": "101.9K",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s2148385-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2148385-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2148385-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2148385-av-01-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "DIOR",
+      "name2": "Lip Glow Oil",
+      "colours": "88 Colours",
+      "price": "32.00",
+      "rating": "72K",
+      "category": "Lips",
+      "images": "https://www.sephora.com/productimages/sku/s2449130-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2449130-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2449130-av-04-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s2449130-av-02-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "SEPHORA COLLECTION",
+      "name2": "Matte Perfection Lightweight Tinted Moisturizer ",
+      "colours": "160 Colours",
+      "price": "90.00",
+      "rating": "36.9K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s2149482-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2149482-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p448496-av-01-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p448496-av-06-zoom.jpg?imwidth=612"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "SEPHORA",
+      "name2": "Lightweight Tinted Moisturizer ",
+      "colours": "1 Colours",
+      "price": "1.00",
+      "rating": "36K",
+      "category": "Face",
+      "images": "https://www.sephora.com/productimages/sku/s870618-main-zoom.jpg?imwidth=612",
+      "inImages": [
+        "https://www.sephora.com/productimages/sku/s2149482-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/sku/s870618-main-zoom.jpg?imwidth=612",
+        "https://www.sephora.com/productimages/product/p448496-av-06-zoom.jpg?imwidth=612"
+      ]
+    }
+  ]
+}
